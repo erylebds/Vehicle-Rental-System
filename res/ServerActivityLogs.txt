@@ -1,0 +1,13 @@
+2025/03/08 22:14:47 - Server request received: A client has successfully connected to the server
+2025/03/08 22:14:51 - Server request received: Client: erds logged in successfully. Logged in as: Admin
+2025/03/08 22:17:43 - Server request received: A client has successfully connected to the server
+2025/03/08 22:17:47 - Server request received: Client: erds logged in successfully. Logged in as: Admin
+2025/03/08 22:21:19 - Server request received: Vehicle updated successfully! at 2025-03-08T22:21:19.679456300
+2025/03/08 22:22:39 - Server request received: A client has successfully connected to the server
+2025/03/08 22:22:44 - Server request received: Client: mustacho logged in successfully. Logged in as: User
+2025/03/08 22:22:49 - Server request received: Client: erds logged in successfully. Logged in as: Admin
+2025/03/08 22:25:21 - Server request received: A client has successfully connected to the server
+2025/03/08 22:25:24 - Server request received: Client: erds logged in successfully. Logged in as: Admin
+2025/03/11 09:19:49 - Server request received: A client has successfully connected to the server
+2025/03/11 09:19:53 - Server request received: Client: erds logged in successfully. Logged in as: Admin
+2025/03/11 09:20:15 - Server request received: Client: mustacho logged in successfully. Logged in as: User

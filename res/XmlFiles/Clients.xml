@@ -1,0 +1,14 @@
+<Clients>
+    <Client>
+        <Username>erds</Username>
+        <Password>123</Password>
+        <Email>eryleds@gmail.com</Email>
+        <Role>Admin</Role>
+    </Client>
+    <Client>
+        <Username>mustacho</Username>
+        <Password>123</Password>
+        <Email>mustacho@gmail.com</Email>
+        <Role>User</Role>
+    </Client>
+</Clients>
